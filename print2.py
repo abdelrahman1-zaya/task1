@@ -1,2 +1,2 @@
 s="lucky"
-print(s)
+print("you are a person",s)
